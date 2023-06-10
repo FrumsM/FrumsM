@@ -21,5 +21,5 @@
 - 👷 My speciality is **Applied Mathematics and Computer Science**
 - 🏠 My hobbies are **Playing the Guitar, Reading, Playing Chess**
 - 🌍 I speak **Russain, English**
-- 📫 Reach me by [telegram](https://t.me/Frums), [vkontakte](https://vk.com/id217928311), [gmail](mailto:frums199@gmail.com)
+- 📫 Reach me by [telegram](https://t.me/FrumsM), [vkontakte](https://vk.com/id217928311), [gmail](mailto:frums199@gmail.com)
 
