@@ -17,8 +17,8 @@
 
 ### About me
 
-- 📚 I’m currently learning **TensorFlow, ML Algorithms, Time Series Models**
 - 👷 My speciality is **Applied Mathematics and Computer Science**
+- 📚 I’m currently learning **TensorFlow, ML Algorithms, Time Series Models**
 - 🏠 My hobbies are **Playing the Guitar, Reading, Playing Chess**
 - 🌍 I speak **Russain, English**
 - 📫 Reach me by [telegram](https://t.me/FrumsM), [vkontakte](https://vk.com/id217928311), [gmail](mailto:frums199@gmail.com)
