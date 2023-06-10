@@ -1,4 +1,19 @@
-### Hi there 👋
+<div id="header" align="center">
+  <h1>Hi there, I'm Yaroslav 👋</h1>
+  <h3>Plekhanov Russian University of Economics Student</h3>
+</div>
+
+<div id="socials" align="center">
+  <a href="telegram-url">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="vk-url">
+    <img src="https://img.shields.io/badge/vk-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Gmail"/>
+  </a>
+ <a href="gmail-url">
+    <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</div>
 
 <!--
 **FrumsM/FrumsM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
