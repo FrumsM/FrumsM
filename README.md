@@ -4,13 +4,13 @@
 </div>
 
 <div id="socials" align="center">
-  <a href="telegram-url">
+  <a href="https://t.me/FrumsM">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <a href="vk-url">
+  <a href="https://vk.com/id217928311">
     <img src="https://img.shields.io/badge/vk-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Gmail"/>
   </a>
- <a href="gmail-url">
+ <a href="mailto:frums199@gmail.com">
     <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
