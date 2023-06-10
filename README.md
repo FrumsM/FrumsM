@@ -8,24 +8,18 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <a href="https://vk.com/id217928311">
-    <img src="https://img.shields.io/badge/vk-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Vk"/>
+    <img src="https://img.shields.io/badge/vkontakte-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Vkontakte"/>
   </a>
  <a href="https://www.youtube.com/channel/UCJ_cPTdjr4FSVUA8IUY_zzA">
     <img src="https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
 </div>
 
-<!--
-**FrumsM/FrumsM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
 
-Here are some ideas to get you started:
+- 📚 I’m currently learning **TensorFlow, ML Algorithms, Time Series Models**
+- 👷 My speciality is **Applied Mathematics and Computer Science**
+- 🏠 My hobbies are **Playing the Guitar, Reading, Playing Chess**
+- 🌍 I speak **Russain, English**
+- 📫 Reach me by [telegram](https://t.me/Frums), [vkontakte](https://vk.com/id217928311), [gmail](mailto:frums199@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
