@@ -17,7 +17,7 @@
 
 ### About me
 
-- 👷 My speciality is **Applied Mathematics and Computer Science**
+- 👷 My speciality is **Big Data Analysis**
 - 📚 I’m currently learning **Keras, Time Series Models, R**
 - 🏠 My hobbies are **Playing the Guitar, Reading, Playing Chess**
 - 🌍 I speak **Russain, English**
